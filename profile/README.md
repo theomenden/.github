@@ -18,8 +18,4 @@
     - Alternatively you can also email us directly at [support@theomenden.com](mailto:support@theomenden.com)
   - Join our discord at: [The Omen Den's Discord](https://discord.gg/qUkmD5hY)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aluthecrow&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aluthecrow&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### The Omen Den is proud to announce that we are a part of the Microsoft For Startups Founders Hub
-<img width="550" alt="MS_Startups_FH_lockup_stack_alt_OnDrk_RGB" src="https://github.com/theomenden/.github/assets/16618188/d8325499-d3c4-4dc1-840c-78e7db3616a2">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AluTheCrow&custom_title=Alu's%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=AluTheCrow&custom_title=Alu's%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=synthwave)
